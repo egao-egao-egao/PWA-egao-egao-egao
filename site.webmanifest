@@ -6,13 +6,11 @@
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifhjdlDGbGB6HBF_TuTW2NGpk1mmYx2vAhtjPPMkcUJf3rJzphqo6Ud9AEmekyuO9I5I19MXqvAUhkPLaBXExwdr_tFi5HjsliJ98BpZViOCFZ8K9mrKU6XGHq_Xx5XIbjyqDCi5b2_cXMXCeo7gHIgXDJ1Tcn8mcg4m2s6ArexQjmli0-HD_XOpcM/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
-            "purpose": "maskable"
         },
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0fbqidvb_8t7stQwJwH-IVeTacR47jmOenncv6BDS5fueFIZEUKhjL1oIMp-Hh5g22LG638npj9ce9jh62anHkPhgwxBrs1KtE5PiAzJyJD6w_Tkr6093ta7jfYXedvf5631I5c_mVBezbxsd5fVETsecl_6UvfjD9-jthyTUsQI81n6a4HcEzvoJ/s16000/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose": "maskable"
         }
     ],
     "theme_color": "#ffffff",
